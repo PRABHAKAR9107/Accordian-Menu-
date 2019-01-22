@@ -9,7 +9,7 @@ ___
 _Accordions are useful when you want to toggle between hiding and showing large amount of content._
 
 
-_I create Accordian Menu for my portfolio._
+_I create Accordion Menu for my portfolio._
 
 Tools are used for:-
 * __HTML__
@@ -21,8 +21,9 @@ Tools are used for:-
 
 **[Portfolio]**(https://prabhakar9107.github.io/)
 
- ![Prabhakr Kumar Bansal](https://res.cloudinary.com/djnxdb9dr/image/upload/v1541690900/pb.png)
-
+ ![Prabhakr Kumar Bansal](https://res.cloudinary.com/djnxdb9dr/image/upload/v1547477658/41955085_2229675423936147_1220212264766799872_o.jpg/100/100)
+ 
+ **[Codepen]**(https://codepen.io/prabhakar-bansal/pen/qgBOLQ "Codepen/Prabhakar Bansal" )
     
 
   
