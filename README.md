@@ -19,9 +19,9 @@ Tools are used for:-
 ------------//////////----------/////////--------------
 ### Links
 
-**[Portfolio]**(https://prabhakar9107.github.io/)
+**[Website]**(https://prabhakar9107.github.io/)
 
- ![Prabhakr Kumar Bansal](https://res.cloudinary.com/djnxdb9dr/image/upload/c_scale,h_200,w_200/v1547477658/41955085_2229675423936147_1220212264766799872_o.jpg)
+ ![Prabhakr Kumar Bansal](https://res.cloudinary.com/djnxdb9dr/image/upload/v1548192150/41955085_2229675423936147_1220212264766799872_o-c_scale_q_100_w_200.jpg)
  
  **[Codepen]**(https://codepen.io/prabhakar-bansal/pen/qgBOLQ "Codepen/Prabhakar Bansal")
     
