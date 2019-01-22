@@ -21,9 +21,9 @@ Tools are used for:-
 
 **[Portfolio]**(https://prabhakar9107.github.io/)
 
- ![Prabhakr Kumar Bansal](https://res.cloudinary.com/djnxdb9dr/image/upload/v1547477658/41955085_2229675423936147_1220212264766799872_o.jpg/100/100)
+ ![Prabhakr Kumar Bansal](https://res.cloudinary.com/djnxdb9dr/image/upload/v1547477658/41955085_2229675423936147_1220212264766799872_o.jpg/ )
  
- **[Codepen]**(https://codepen.io/prabhakar-bansal/pen/qgBOLQ "Codepen/Prabhakar Bansal" )
+ **[Codepen]**(https://codepen.io/prabhakar-bansal/pen/qgBOLQ "Codepen/Prabhakar Bansal")
     
 
   
